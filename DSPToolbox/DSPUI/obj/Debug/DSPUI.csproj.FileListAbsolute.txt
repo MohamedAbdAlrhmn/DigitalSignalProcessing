@@ -1,0 +1,183 @@
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPUI\bin\Debug\DSPUI.exe.config
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPUI\bin\Debug\DSPUI.exe
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPUI\bin\Debug\DSPUI.pdb
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPUI\obj\Debug\DSPUI.csprojResolveAssemblyReference.cache
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPUI\obj\Debug\DSPUI.Form1.resources
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPUI\obj\Debug\DSPUI.Properties.Resources.resources
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPUI\obj\Debug\DSPUI.csproj.GenerateResource.Cache
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPUI\obj\Debug\DSPUI.exe
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPUI\obj\Debug\DSPUI.pdb
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPUI\bin\Debug\DSPUI.exe.config
+D:\Career\Teaching\2017\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPUI\obj\Debug\DSPUI.exe
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\bin\Debug\Media\Warning.png
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\bin\Debug\DSPUI.exe.config
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\bin\Debug\DSPUI.exe
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\bin\Debug\DSPUI.pdb
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\bin\Debug\DSPComponents.dll
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\bin\Debug\OxyPlot.dll
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.dll
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\bin\Debug\DSPComponents.pdb
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\bin\Debug\OxyPlot.pdb
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\bin\Debug\OxyPlot.xml
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.pdb
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.xml
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\obj\Debug\DSPUI.csprojResolveAssemblyReference.cache
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.DiscreteFourierTransform.resources
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.FastFourierTransform.resources
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.FileInputSignal.resources
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.MovingAverage.resources
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.MultiplySignalByConstant.resources
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.Normalizer.resources
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.QuantizationAndEncoding.resources
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.Shifter.resources
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\obj\Debug\DSPUI.DSPToolbox.resources
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\obj\Debug\DSPUI.Properties.Resources.resources
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.GenerateResource.Cache
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\obj\Debug\DSPUI.exe
+G:\dsp.toolbox.git\DSPToolbox\DSPUI\obj\Debug\DSPUI.pdb
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPUI\bin\Debug\DSPUI.exe.config
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.exe
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.pdb
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPUI\bin\Debug\Media\Warning.png
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPUI\bin\Debug\DSPUI.exe
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPUI\bin\Debug\DSPUI.pdb
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPUI\bin\Debug\DSPComponents.dll
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPUI\bin\Debug\OxyPlot.dll
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.dll
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPUI\bin\Debug\DSPComponents.pdb
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPUI\bin\Debug\OxyPlot.pdb
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPUI\bin\Debug\OxyPlot.xml
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.pdb
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.xml
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.csprojResolveAssemblyReference.cache
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.DiscreteFourierTransform.resources
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.FastFourierTransform.resources
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.FileInputSignal.resources
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.MovingAverage.resources
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.MultiplySignalByConstant.resources
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.Normalizer.resources
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.QuantizationAndEncoding.resources
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.Shifter.resources
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.DSPToolbox.resources
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.Properties.Resources.resources
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.GenerateResource.Cache
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\bin\Debug\Media\Warning.png
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\bin\Debug\DSPUI.exe.config
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\bin\Debug\DSPUI.exe
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\bin\Debug\DSPUI.pdb
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\bin\Debug\DSPComponents.dll
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\bin\Debug\OxyPlot.dll
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.dll
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\bin\Debug\DSPComponents.pdb
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\bin\Debug\OxyPlot.pdb
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\bin\Debug\OxyPlot.xml
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.pdb
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.xml
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.AssemblyReference.cache
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.SuggestedBindingRedirects.cache
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.DiscreteFourierTransform.resources
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.FastFourierTransform.resources
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.FileInputSignal.resources
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.FIR.resources
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.MovingAverage.resources
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.MultiplySignalByConstant.resources
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.Normalizer.resources
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.QuantizationAndEncoding.resources
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.Shifter.resources
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.DSPToolbox.resources
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.Properties.Resources.resources
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.GenerateResource.cache
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.CoreCompileInputs.cache
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.CopyComplete
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.exe
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.pdb
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\bin\Debug\Media\Warning.png
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\bin\Debug\DSPUI.exe.config
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\bin\Debug\DSPUI.exe
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\bin\Debug\DSPUI.pdb
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\bin\Debug\DSPComponents.dll
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\bin\Debug\OxyPlot.dll
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.dll
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\bin\Debug\DSPComponents.pdb
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\bin\Debug\OxyPlot.pdb
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\bin\Debug\OxyPlot.xml
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.pdb
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.xml
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.AssemblyReference.cache
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.SuggestedBindingRedirects.cache
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.DiscreteFourierTransform.resources
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.FastFourierTransform.resources
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.FileInputSignal.resources
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.FIR.resources
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.MovingAverage.resources
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.MultiplySignalByConstant.resources
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.Normalizer.resources
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.QuantizationAndEncoding.resources
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.Shifter.resources
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.DSPToolbox.resources
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.Properties.Resources.resources
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.GenerateResource.cache
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.CoreCompileInputs.cache
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.CopyComplete
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.exe
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.pdb
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\bin\Debug\Media\Warning.png
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\bin\Debug\DSPUI.exe.config
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\bin\Debug\DSPUI.exe
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\bin\Debug\DSPUI.pdb
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\bin\Debug\DSPComponents.dll
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\bin\Debug\OxyPlot.dll
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.dll
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\bin\Debug\DSPComponents.pdb
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\bin\Debug\OxyPlot.pdb
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\bin\Debug\OxyPlot.xml
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.pdb
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.xml
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.AssemblyReference.cache
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.SuggestedBindingRedirects.cache
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.DiscreteFourierTransform.resources
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.FastFourierTransform.resources
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.FileInputSignal.resources
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.FIR.resources
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.MovingAverage.resources
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.MultiplySignalByConstant.resources
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.Normalizer.resources
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.QuantizationAndEncoding.resources
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.Shifter.resources
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\obj\Debug\DSPUI.DSPToolbox.resources
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\obj\Debug\DSPUI.Properties.Resources.resources
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.GenerateResource.cache
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.CoreCompileInputs.cache
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.CopyComplete
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\obj\Debug\DSPUI.exe
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPUI\obj\Debug\DSPUI.pdb
+E:\finalDsp_package\DSPToolbox\DSPUI\bin\Debug\Media\Warning.png
+E:\finalDsp_package\DSPToolbox\DSPUI\bin\Debug\DSPUI.exe.config
+E:\finalDsp_package\DSPToolbox\DSPUI\bin\Debug\DSPUI.exe
+E:\finalDsp_package\DSPToolbox\DSPUI\bin\Debug\DSPUI.pdb
+E:\finalDsp_package\DSPToolbox\DSPUI\bin\Debug\DSPComponents.dll
+E:\finalDsp_package\DSPToolbox\DSPUI\bin\Debug\OxyPlot.dll
+E:\finalDsp_package\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.dll
+E:\finalDsp_package\DSPToolbox\DSPUI\bin\Debug\DSPComponents.pdb
+E:\finalDsp_package\DSPToolbox\DSPUI\bin\Debug\OxyPlot.pdb
+E:\finalDsp_package\DSPToolbox\DSPUI\bin\Debug\OxyPlot.xml
+E:\finalDsp_package\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.pdb
+E:\finalDsp_package\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.xml
+E:\finalDsp_package\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.AssemblyReference.cache
+E:\finalDsp_package\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.SuggestedBindingRedirects.cache
+E:\finalDsp_package\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.DiscreteFourierTransform.resources
+E:\finalDsp_package\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.FastFourierTransform.resources
+E:\finalDsp_package\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.FileInputSignal.resources
+E:\finalDsp_package\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.FIR.resources
+E:\finalDsp_package\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.MovingAverage.resources
+E:\finalDsp_package\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.MultiplySignalByConstant.resources
+E:\finalDsp_package\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.Normalizer.resources
+E:\finalDsp_package\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.QuantizationAndEncoding.resources
+E:\finalDsp_package\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.Shifter.resources
+E:\finalDsp_package\DSPToolbox\DSPUI\obj\Debug\DSPUI.DSPToolbox.resources
+E:\finalDsp_package\DSPToolbox\DSPUI\obj\Debug\DSPUI.Properties.Resources.resources
+E:\finalDsp_package\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.GenerateResource.cache
+E:\finalDsp_package\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.CoreCompileInputs.cache
+E:\finalDsp_package\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.CopyComplete
+E:\finalDsp_package\DSPToolbox\DSPUI\obj\Debug\DSPUI.exe
+E:\finalDsp_package\DSPToolbox\DSPUI\obj\Debug\DSPUI.pdb

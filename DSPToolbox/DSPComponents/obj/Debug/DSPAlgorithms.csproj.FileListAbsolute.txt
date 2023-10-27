@@ -1,0 +1,24 @@
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+F:\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+F:\unversity\level4_subject\DSP\Lap1\Package and Task\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+D:\Courses\Digital Signal Processing\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+E:\finalDsp_package\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+E:\finalDsp_package\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+E:\finalDsp_package\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+E:\finalDsp_package\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+E:\finalDsp_package\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+E:\finalDsp_package\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
